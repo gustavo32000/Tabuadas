@@ -1,0 +1,11 @@
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\Tabuadas\bin\Debug\netcoreapp2.1\Tabuadas.deps.json
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\Tabuadas\bin\Debug\netcoreapp2.1\Tabuadas.runtimeconfig.json
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\Tabuadas\bin\Debug\netcoreapp2.1\Tabuadas.runtimeconfig.dev.json
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\Tabuadas\bin\Debug\netcoreapp2.1\Tabuadas.dll
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\Tabuadas\bin\Debug\netcoreapp2.1\Tabuadas.pdb
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\Tabuadas\obj\Debug\netcoreapp2.1\Tabuadas.csprojAssemblyReference.cache
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\Tabuadas\obj\Debug\netcoreapp2.1\Tabuadas.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\Tabuadas\obj\Debug\netcoreapp2.1\Tabuadas.AssemblyInfoInputs.cache
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\Tabuadas\obj\Debug\netcoreapp2.1\Tabuadas.AssemblyInfo.cs
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\Tabuadas\obj\Debug\netcoreapp2.1\Tabuadas.dll
+C:\Users\gustavo.calbuquerque\CSharp\primeiros_passos\Tabuadas\obj\Debug\netcoreapp2.1\Tabuadas.pdb
